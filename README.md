@@ -13,6 +13,8 @@ Then, after that you have chosen the implementation for your first mini-project,
 
 <!-- DESCRIPTION THE PROJECT -->
 ## About The Project
+This project has been made by myself from the cyber physic system course in the university of Padua and it use matlab mobile connected to the phone. The phone is a controller for play the game.
+
 The purpose of the game is to capture a given number of "coins" randomly placed in a square map. 
 
 The gamer (i.e. your avatar) can move in the four directions (up-down, left-right) in the map by using a biaxial accelerometer as a user interface. When instead the acceleration is below a given threshold (near zero)  the speed should be zero, so the gamer remains in the same position. You can optionally implement different speeds by considering also the information about the inclination of your sensor. 
